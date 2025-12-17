@@ -6,3 +6,6 @@ let sum = arr.reduce((res, cur) => {
     return res + cur;
 });
 console.log(sum);
+
+//res = previous value, cur = current value
+// result updates as result of last 2 and curr updates one by one
