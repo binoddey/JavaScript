@@ -4,7 +4,7 @@
 
 // access html in js
 //1.
-console.log(document); // this provides access to the html document
+console.log(window.document); // this provides access to the html document
 
 //2.
 console.dir(document); // this provides access to the html document in a tree structure

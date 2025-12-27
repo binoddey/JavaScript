@@ -18,3 +18,8 @@ let element = document.querySelector(".para2"); //selects first element with cla
 console.log(element);
 console.dir(element);
 
+//5. selecting with query selector all = document.querySelectorAll("my selector")
+let element2 = document.querySelectorAll(".heading"); //selects all elements with class para2
+console.log(element2);
+console.dir(element2);
+
