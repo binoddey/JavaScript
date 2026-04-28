@@ -16,6 +16,9 @@ let emptyValue = null; // Null
 //e. Undefined: Represents a variable that has been declared but not assigned a value.
 let y; // Undefined
 
+//f. Symbol: Represents a unique identifier.
+let uniqueId = Symbol("id"); // Symbol
+
 //----------------------------------------------------------------------------//
 
 //2. Non-Primitive Data Types
